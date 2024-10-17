@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier01/AJ_atelier01.iml" filepath="$PROJECT_DIR$/AJ_atelier01/AJ_atelier01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier02/AJ_atelier02.iml" filepath="$PROJECT_DIR$/AJ_atelier02/AJ_atelier02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier02/AJ_atelier02_partie2./AJ_atelier02_partie2..iml" filepath="$PROJECT_DIR$/AJ_atelier02/AJ_atelier02_partie2./AJ_atelier02_partie2..iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier03/AJ_atelier03.iml" filepath="$PROJECT_DIR$/AJ_atelier03/AJ_atelier03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier03/AJ_atelier03_part2/AJ_atelier03_part2.iml" filepath="$PROJECT_DIR$/AJ_atelier03/AJ_atelier03_part2/AJ_atelier03_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier04/AJ_atelier04.iml" filepath="$PROJECT_DIR$/AJ_atelier04/AJ_atelier04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programation Java Avancé.iml" filepath="$PROJECT_DIR$/.idea/Programation Java Avancé.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier01/Solution_AJ_atelier01_part1/Solution_AJ_atelier01_part1.iml" filepath="$PROJECT_DIR$/AJ_atelier01/Solution_AJ_atelier01_part1/Solution_AJ_atelier01_part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier01/Solution_AJ_atelier01_part2/Solution_AJ_atelier01_part2.iml" filepath="$PROJECT_DIR$/AJ_atelier01/Solution_AJ_atelier01_part2/Solution_AJ_atelier01_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier02/Solution_AJ_atelier02_part1/Solution_AJ_atelier02_part1.iml" filepath="$PROJECT_DIR$/AJ_atelier02/Solution_AJ_atelier02_part1/Solution_AJ_atelier02_part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier02/Solution_AJ_atelier02_part2/Solution_AJ_atelier02_part2.iml" filepath="$PROJECT_DIR$/AJ_atelier02/Solution_AJ_atelier02_part2/Solution_AJ_atelier02_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier03/Solution_atelier03_part1/Solution_atelier03_part1.iml" filepath="$PROJECT_DIR$/AJ_atelier03/Solution_atelier03_part1/Solution_atelier03_part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJ_atelier03/Solution_atelier03_part2/Solution_atelier03_part2.iml" filepath="$PROJECT_DIR$/AJ_atelier03/Solution_atelier03_part2/Solution_atelier03_part2.iml" />
+    </modules>
+  </component>
+</project>

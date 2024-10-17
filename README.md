@@ -4,4 +4,3 @@ Ce dépôt contient les codes sources des exercices du cours BINV2130-1 Programm
 ## Auteur
 - [Brandon Van Bellinghen](https://github.com/BrandonVB11/)
 
-# BINV2130_1_Programmation_Java_avancee
